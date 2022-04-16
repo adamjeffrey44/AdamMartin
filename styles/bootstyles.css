@@ -1,0 +1,56 @@
+/*--Adam Martin 4/16/22--*/
+
+body{
+    font-family: serif;
+    background-color: lightsalmon;
+    background-size: auto; 
+    background-position: bottom;
+    padding-bottom: 100px;
+    padding-right: 225px;
+    padding-left: 225px;
+}
+   
+
+h1{
+    color:white;
+    font-size: 50px;
+    background-color: mediumaquamarine;
+    font-family: fantasy}
+
+div {
+    background-color: mediumaquamarine;
+    border-bottom: dashed ivory 5px;
+    border-top: dashed ivory 5px}
+
+nav {
+    font-family: fantasy; 
+    font-size: 12px}
+
+
+footer{
+    background-color: mediumaquamarine;
+}
+ul {padding-top: 15px;
+    background-color: mediumaquamarine;
+    padding-bottom: 15px;}
+
+img {
+    border: solid black 5px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;}
+
+.gangnam{
+
+    border: dashed ivory 5px;
+    background-color: hotpink;
+    color: white;
+    font-family: cursive, serif;}
+
+.gangname:hover{
+
+    text-align: center;
+    font-size: 50%;
+    font-family: comic-sans;
+    color: white;
+}
